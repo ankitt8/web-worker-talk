@@ -10,3 +10,5 @@ Once installed run the code using ```live-server``` command
 Click the performance tab in google developer console<br>
 Click on Record profile button and observe that in case of web worker<br>
 The main thread isn't blocked and all computation is done inside web worker.
+
+**Thanks To Devkode Team <br>https://www.instagram.com/devkode.io/**
