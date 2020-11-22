@@ -1,4 +1,6 @@
 https://frontendmasters.com/courses/service-workers/
 https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API/Using_web_workers
 https://youtu.be/X57mh8tKkgE
+https://web.dev/tbt/?utm_source=devtools
+https://developers.google.com/web/tools/chrome-devtools/evaluate-performance#:~:text=The%20main%20metric%20for%20measuring,probably%20harming%20the%20user%20experience.
 
