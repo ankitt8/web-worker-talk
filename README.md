@@ -11,5 +11,5 @@ Once installed run the code using ```live-server``` command
 -Click on Record profile button and observe that in case of web worker<br>
 -The main thread isn't blocked and all computation is done inside web worker<br>
 
-Thanks To [Devkode](https://www.instagram.com/devkode.io) <br>
+Thanks To [DevkodeTeam](https://www.instagram.com/devkode.io) <br>
 You can connect with me on [Linkedin](https://linkedin.com/in/ankitt8)
