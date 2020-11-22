@@ -1,6 +1,6 @@
 # web-worker-talk
 
-This repo contains everything I reffered to give the talk on Web Worker.
+This repo contains everything I referred to give the talk on Web Worker.
 
 ## How To Run Code
 If live-server is not installed install it using ```npm install live-server -g``` <br>
