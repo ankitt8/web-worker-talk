@@ -1,0 +1,4 @@
+https://frontendmasters.com/courses/service-workers/
+https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API/Using_web_workers
+https://www.youtube.com/watch?v=X57mh8tKkgE
+
